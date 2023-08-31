@@ -1,2 +1,2 @@
-#!/bin/bash 
-mv [:upper:* /tmp/iu
+#!/bin/bash
+rm .100-lets_move.swp
