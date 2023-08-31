@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -un *.html ..Thank you for your business! We look forward to working with you again.
+cp -un *.html ../
