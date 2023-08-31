@@ -1,2 +1,2 @@
-#!/bin/bash
-rm .100-lets_move.swp
+#!/bin/bash 
+mv [[:upper:]]* /tmp/u
